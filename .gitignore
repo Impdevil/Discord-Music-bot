@@ -140,6 +140,6 @@ ffmpeg.exe
 /ffmpeg
 
 
-.webm
-.mp3
-.mp4
+*.webm
+*.mp3
+*.mp4
